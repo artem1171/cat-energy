@@ -1,0 +1,33 @@
+.example {
+  padding: 25px 20px 40px;
+  background-color: $color-grey-2;
+}
+
+.example__description {
+  color: $color-special-dark-grey;
+}
+
+.example__list {
+  text-align: center;
+}
+
+.example__definition {
+  font-family: $fonts-title;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 1;
+  text-transform: uppercase;
+}
+
+.example__list-title {
+  font-size: 12px;
+  line-height: 1;
+  text-transform: lowercase;
+  color: $color-special-dark-grey;
+}
+
+.example__cost {
+  font-family: $fonts-title;
+  line-height: 20px;
+  text-transform: uppercase;
+}

@@ -1,0 +1,12 @@
+.site-menu {
+  font-family: $fonts-title;
+  font-size: 20px;
+  text-transform: uppercase;
+  text-align: center;
+  list-style: none;
+}
+
+.site-menu__link {
+  color: $color-black;
+  text-decoration: none;
+}

@@ -1,0 +1,18 @@
+.card-additional__link {
+  text-decoration: none;
+}
+
+.card-additional__title {
+  font-family: $fonts-title;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1;
+  text-transform: uppercase;
+  color: $color-special-dark-grey-2;
+}
+
+.card-additional__list {
+  line-height: 1;
+  color: $color-special-dark-grey;
+}
+
